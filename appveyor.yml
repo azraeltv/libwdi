@@ -28,9 +28,9 @@ environment:
 #    - CONFIGURATION: Release
 #      COMPILER: MSVC
 #      PLATFORM: Win32
-#    - CONFIGURATION: Release
-#      COMPILER: MSVC
-#      PLATFORM: x64
+    - CONFIGURATION: Release
+      COMPILER: MSVC
+      PLATFORM: x64
 
 build:
   project: libwdi.sln
